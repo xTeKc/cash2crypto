@@ -119,7 +119,7 @@ pub enum Cash {
 }
 
 impl Cash {
-    pub const ALL:  [Cash; 116] = [
+    pub const ALL: [Cash; 116] = [
         Cash::AfghanAfghani,              // AFN  ؋
         Cash::AlbanianLek,                // ALL  L
         Cash::AlgerianDinar,              // DZD  د.ج
