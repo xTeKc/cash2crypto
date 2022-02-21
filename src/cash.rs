@@ -480,4 +480,8 @@ impl Cash {
         }
     }
 
+    pub fn ISO_code_and_symbol(&self) -> String {
+        format!("{} ({})", self.ISO_code(), self.symbol())
+    }
+
 }
