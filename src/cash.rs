@@ -14,6 +14,7 @@ pub enum Cash {
     BotswanaPula,           // BWP  P
     BrazilianReal,          // BRL  R$
     BritishPound,           // GBP  £
+    BurmeseKyat,            // MMK  Ks
     BurundianFranc,         // BIF  Fr
     CambodianRiel,          // KHR  ៛
     CanadianDollar,         // CAD  $
@@ -52,18 +53,67 @@ pub enum Cash {
     LaoKip,                 // LAK  ₭
     LiberianDollar,         // LRD  $
     LibyanDinar,            // LYD  ل.د
+    MacedonianDenar,        // MKD  ден
     MalagasyAriary,         // MGA  Ar
     MalawianKwacha,         // MWK  MK
     MalaysianRinggit,       // MYR  RM
     MauritanianOuguiya,     // MRU  UM
     MauritianRupee,         // MUR  Rs
     MexicanPeso,            // MXN  $
+    MoldovanLeu,            // MDL  L
+    MongolianTogrog,        // MNT  ₮
+    MozambicanMetical,      // MZN  MT
+    NewTaiwanDollar,        // TWD  $
     NewZealandDollar,       // NZD  $
+    NicaraguanCordoba,      // NIO  C$
+    NigerianNaira,          // NGN  ₦
     NorthKoreanWon,         // KPW  ₩
+    NorwegianKrone,         // NOK  kr
+    PakistaniRupee,         // PKR  Rs
+    PapuaNewGuineanKina,    // PGK  K
+    ParaguayanGuarani,      // PYG  ₲
+    PeruvianSol,            // PEN  S/.
+    PhilippinePeso,         // PHP  ₱
+    PolishZloty,            // PLN  zł
+    RomanianLeu,            // RON  lei
+    RwandanFranc,           // RWF  Fr
     RussianRuble,           // RUB  ₽
+    SamoanTala,             // WST  T
+    SerbianDinar,           // RSD  дин.
+    SeychelloisRupee,       // SCR  Rs
+    SierraLeoneanLeone,     // SLL  Le
     SingaporeDollar,        // SGD  $
+    SolomonIslandsDollar,   // SBD  $
+    SomaliShilling,         // SOS  Sh
+    SomalilandShilling,     // SLS  Sl
     SouthAfricanRand,       // ZAR  R
     SouthKoreanWon,         // KRW  ₩
+    SouthSudanesePound,     // SSP  £
+    SriLankanRupee,         // LKR  ரூ
+    SudanesePound,          // SDG  ج.س.
+    SurinameseDollar,       // SRD  $
+    SwedishKrona,           // SEK  kr
     SwissFranc,             // CHF  Fr.
+    SyrianPound,            // SYP  ل.س
+    TajikistaniSomoni,      // TJS  с.
+    TanzanianShilling,      // TZS  Sh
+    ThaiBaht,               // THB  ฿
+    TonganPaAnga,           // TOP  T$
+    TransnistrianRuble,     // PRB  p.
+    TrinidadandTobagoDollar,// TTD  $
+    TunisianDinar,          // TND  د.ت
+    TurkishLira,            // TRY  ₺
+    TurkmenistanManat,      // TMT  m.
+    UgandanShilling,        // UGX  USh
+    UkrainianHryvnia,       // UAH  ₴
+    UnitedArabEmiratesDirham,// AED د.إ
     UnitedStatesDollar,     // USD  $
+    UruguayanPeso,          // UYU  $
+    UzbekistaniSom,         // UZS  Sʻ
+    VanuatuVatu,            // VUV  Vt
+    VenezuelanBolivarSoberano,// VES Bs.
+    VietnameseDong,         // VND  ₫
+    YemeniRial,             // YER  ﷼
+    ZambianKwacha,          // ZMW  ZK
+    RTGSdollar,             // ZWB  RTGS$
 }
