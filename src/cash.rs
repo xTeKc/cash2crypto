@@ -29,10 +29,41 @@ pub enum Cash {
     EthiopianBirr,          // ETB  Br
     Euro,                   // EUR  €
     FijianDollar,           // FJD  $
+    GambianDalasi,          // GMD  D
+    GeorgianLari,           // GEL  ₾
+    GhanaianCedi,           // GHS  ₵
+    GuatemalanQuetzal,      // GTQ  Q
+    GuineanFranc,           // GNF  Fr
+    GuyaneseDollar,         // GYD  $
+    HaitianGourde,          // HTG  G
+    HonduranLempira,        // HNL  L
+    HungarianForint,        // HUF  Ft
+    IcelandicKrona,         // ISK  kr
     IndianRupee,            // INR  ₹
+    IndonesianRupiah,       // IDR  Rp
+    IranianRial,            // IRR  ﷼
+    IraqiDinar,             // IQD  ع.د
+    IsraeliNewShekel,       // ILS  ₪
+    JamaicanDollar,         // JMD  $
+    JapaneseYen,            // JPY  円
+    KazakhstaniTenge,       // KZT  ₸
+    KenyanShilling,         // KES  Sh
+    KyrgyzstaniSom,         // KGS  c
+    LaoKip,                 // LAK  ₭
+    LiberianDollar,         // LRD  $
+    LibyanDinar,            // LYD  ل.د
+    MalagasyAriary,         // MGA  Ar
+    MalawianKwacha,         // MWK  MK
+    MalaysianRinggit,       // MYR  RM
+    MauritanianOuguiya,     // MRU  UM
+    MauritianRupee,         // MUR  Rs
+    MexicanPeso,            // MXN  $
     NewZealandDollar,       // NZD  $
+    NorthKoreanWon,         // KPW  ₩
     RussianRuble,           // RUB  ₽
     SingaporeDollar,        // SGD  $
     SouthAfricanRand,       // ZAR  R
+    SouthKoreanWon,         // KRW  ₩
+    SwissFranc,             // CHF  Fr.
     UnitedStatesDollar,     // USD  $
 }
